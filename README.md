@@ -1,2 +1,0 @@
-# DustWare
-just dustware
